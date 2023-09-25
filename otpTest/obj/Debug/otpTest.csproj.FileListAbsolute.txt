@@ -1,0 +1,268 @@
+D:\lap trinh win\otpTest\otpTest\bin\Debug\otpTest.exe.config
+D:\lap trinh win\otpTest\otpTest\bin\Debug\otpTest.exe
+D:\lap trinh win\otpTest\otpTest\bin\Debug\otpTest.pdb
+D:\lap trinh win\otpTest\otpTest\obj\Debug\otpTest.csproj.AssemblyReference.cache
+D:\lap trinh win\otpTest\otpTest\obj\Debug\otpTest.Form1.resources
+D:\lap trinh win\otpTest\otpTest\obj\Debug\otpTest.Properties.Resources.resources
+D:\lap trinh win\otpTest\otpTest\obj\Debug\otpTest.csproj.GenerateResource.cache
+D:\lap trinh win\otpTest\otpTest\obj\Debug\otpTest.csproj.CoreCompileInputs.cache
+D:\lap trinh win\otpTest\otpTest\obj\Debug\otpTest.exe
+D:\lap trinh win\otpTest\otpTest\obj\Debug\otpTest.pdb
+D:\lap trinh win\otpTest\otpTest\obj\Debug\otpTest.Form2.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\otpTest.exe.config
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\otpTest.exe
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\otpTest.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\obj\Debug\otpTest.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\obj\Debug\otpTest.Form1.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\obj\Debug\otpTest.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\obj\Debug\otpTest.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\obj\Debug\otpTest.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\obj\Debug\otpTest.exe
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\obj\Debug\otpTest.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\linux-x64\native\IronPdfInterop.so
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\linux-x64\native\Pdfium.Native.deployment.json
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\osx-arm64\native\IronPdfInterop.dylib
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\osx-arm64\native\Pdfium.Native.deployment.json
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\osx-x64\native\IronPdfInterop.dylib
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\osx-x64\native\Pdfium.Native.deployment.json
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\win-x64\native\IronPdfInterop.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\win-x64\native\Pdfium.Native.deployment.json
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\win-x86\native\IronPdfInterop.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\win-x86\native\Pdfium.Native.deployment.json
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\logo.png
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\IronBarCode.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\IronSoftware.Abstractions.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\IronSoftware.Logger.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\SixLabors.Fonts.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\zxing.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\zxing.presentation.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\IronBarCode.xml
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\IronSoftware.Abstractions.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\IronSoftware.Drawing.Common.xml
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\IronSoftware.Logger.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\zxing.xml
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\zxing.presentation.xml
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\obj\Debug\otpTest.csproj.CopyComplete
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\.rescache
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\linux-x64\.rescache
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\linux-x64\native\.rescache
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\osx-arm64\.rescache
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\osx-arm64\native\.rescache
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\osx-x64\.rescache
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\osx-x64\native\.rescache
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\win-x64\.rescache
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\win-x64\native\.rescache
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\win-x86\.rescache
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\bin\Debug\runtimes\win-x86\native\.rescache
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\obj\Debug\otpTest.Form4.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\obj\Debug\otpTest.FormLogin.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\otpTest (2)\otpTest\obj\Debug\otpTest.FormIn4.resources
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\.rescache
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\linux-x64\.rescache
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\linux-x64\native\.rescache
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\linux-x64\native\IronPdfInterop.so
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\linux-x64\native\Pdfium.Native.deployment.json
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\osx-arm64\.rescache
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\osx-arm64\native\.rescache
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\osx-arm64\native\IronPdfInterop.dylib
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\osx-arm64\native\Pdfium.Native.deployment.json
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\osx-x64\.rescache
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\osx-x64\native\.rescache
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\osx-x64\native\IronPdfInterop.dylib
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\osx-x64\native\Pdfium.Native.deployment.json
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\win-x64\.rescache
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\win-x64\native\.rescache
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\win-x64\native\IronPdfInterop.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\win-x64\native\Pdfium.Native.deployment.json
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\win-x86\.rescache
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\win-x86\native\.rescache
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\win-x86\native\IronPdfInterop.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\runtimes\win-x86\native\Pdfium.Native.deployment.json
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\logo.png
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\otpTest.exe.config
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\otpTest.exe
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\otpTest.pdb
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\EntityFramework.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\IronBarCode.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\IronSoftware.Abstractions.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\IronSoftware.Logger.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\SixLabors.Fonts.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\System.Buffers.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\System.Memory.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\zxing.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\zxing.presentation.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\EntityFramework.xml
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\IronBarCode.xml
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\IronSoftware.Abstractions.pdb
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\IronSoftware.Drawing.Common.xml
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\IronSoftware.Logger.pdb
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\System.Buffers.xml
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\System.Memory.xml
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\zxing.xml
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\zxing.presentation.xml
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\obj\Debug\otpTest.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\obj\Debug\otpTest.Form1.resources
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\obj\Debug\otpTest.FormIn4.resources
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\obj\Debug\otpTest.FormLogin.resources
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\obj\Debug\otpTest.Properties.Resources.resources
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\obj\Debug\otpTest.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\obj\Debug\otpTest.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\obj\Debug\otpTest.csproj.CopyComplete
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\obj\Debug\otpTest.exe
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\obj\Debug\otpTest.pdb
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\obj\Debug\otpTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\obj\Debug\otpTest.exe.config
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\EPPlus.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\EPPlus.xml
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\DELL\source\repos\Demo-Login-With-OTP-And-QR\otpTest\obj\Debug\otpTest.Register.resources
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\obj\Debug\otpTest.csproj.AssemblyReference.cache
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\obj\Debug\otpTest.csproj.SuggestedBindingRedirects.cache
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\obj\Debug\otpTest.exe.config
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\obj\Debug\otpTest.exe
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\obj\Debug\otpTest.pdb
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\.rescache
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\linux-x64\.rescache
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\linux-x64\native\.rescache
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\linux-x64\native\IronPdfInterop.so
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\linux-x64\native\Pdfium.Native.deployment.json
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\osx-arm64\.rescache
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\osx-arm64\native\.rescache
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\osx-arm64\native\IronPdfInterop.dylib
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\osx-arm64\native\Pdfium.Native.deployment.json
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\osx-x64\.rescache
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\osx-x64\native\.rescache
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\osx-x64\native\IronPdfInterop.dylib
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\osx-x64\native\Pdfium.Native.deployment.json
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\win-x64\.rescache
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\win-x64\native\.rescache
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\win-x64\native\IronPdfInterop.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\win-x64\native\Pdfium.Native.deployment.json
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\win-x86\.rescache
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\win-x86\native\.rescache
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\win-x86\native\IronPdfInterop.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\runtimes\win-x86\native\Pdfium.Native.deployment.json
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\logo.png
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\otpTest.exe.config
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\otpTest.exe
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\otpTest.pdb
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\EntityFramework.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\EPPlus.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\EPPlus.Interfaces.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\EPPlus.System.Drawing.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\IronBarCode.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\IronSoftware.Abstractions.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\IronSoftware.Drawing.Common.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\IronSoftware.Logger.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\SixLabors.Fonts.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\SixLabors.ImageSharp.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\System.Buffers.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\System.Memory.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\System.Numerics.Vectors.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\zxing.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\zxing.presentation.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.Identity.Client.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\BitMiracle.LibTiff.NET.xml
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\EntityFramework.xml
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\EPPlus.xml
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\IronBarCode.xml
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\IronSoftware.Abstractions.pdb
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\IronSoftware.Drawing.Common.pdb
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\IronSoftware.Drawing.Common.xml
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\IronSoftware.Logger.pdb
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\SixLabors.ImageSharp.xml
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\System.Buffers.xml
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\System.Memory.xml
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\System.Numerics.Vectors.xml
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\zxing.xml
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\bin\Debug\zxing.presentation.xml
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\obj\Debug\otpTest.FormOTP.resources
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\obj\Debug\otpTest.FormIn4.resources
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\obj\Debug\otpTest.FormLogin.resources
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\obj\Debug\otpTest.Properties.Resources.resources
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\obj\Debug\otpTest.FormRegister.resources
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\obj\Debug\otpTest.csproj.GenerateResource.cache
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\obj\Debug\otpTest.csproj.CoreCompileInputs.cache
+D:\Study\Nhom\OTP\Demo-Login-With-OTP-And-QR-demo\Demo-Login-With-OTP-And-QR-demo\otpTest\obj\Debug\otpTest.csproj.CopyComplete
