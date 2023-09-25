@@ -94,7 +94,6 @@ namespace otpTest
             }
             else
             {
-
                 return false;
             }
 

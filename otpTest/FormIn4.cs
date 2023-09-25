@@ -30,10 +30,10 @@ namespace otpTest
             DataAccount dt = listaccounts.FirstOrDefault(p => p.UID.ToString().Trim() == uid.ToString().Trim());//Tìm người dùng theo uid
 
 
-            labName.Text = dt.TenNguoiDung.ToString();
-            txtName.Text = labName.Text;
-            txtName.Text = dt.TenNguoiDung.ToString();
-            txtEmail.Text = dt.Email.ToString();
+            labName.Text = dt.TenNguoiDung.ToString().Trim();
+            txtName.Text = labName.Text.Trim();
+            txtName.Text = dt.TenNguoiDung.ToString().Trim();
+            txtEmail.Text = dt.Email.ToString().Trim();
 
 
             

@@ -39,9 +39,9 @@ namespace otpTest
         }
         public bool checkMail(string chkmail)
         {
-            List<DataAccount> listaccounts = account.DataAccounts.ToList();
+          
 
-            DataAccount dt = listaccounts.FirstOrDefault(p => p.Email == chkmail);
+            DataAccount dt = account.DataAccounts.FirstOrDefault(p => p.Email.Trim() == chkmail.Trim());
 
 
             //if (VerifyEmail(chkmail))
@@ -70,21 +70,21 @@ namespace otpTest
                         this.Close();
                         this.Hide();
                         FormOTP frm1 = new FormOTP();
-                        frm1.Email = txtMailUser.Text;
-                        frm1.Mk=txtPassword.Text;
-                        frm1.Ten=txtTenNguoiDung.Text;
+                        frm1.Email = txtMailUser.Text.Trim();
+                        frm1.Mk=txtPassword.Text.Trim();
+                        frm1.Ten=txtTenNguoiDung.Text.Trim();
                         frm1.ShowDialog();
-                        frm1.Show();
-
+                        
+                       
                     }
                     else
-                        MessageBox.Show("Mail nay da duoc su dung!");
+                        MessageBox.Show("Mail này đã được sử dụng!");
                 }
                 else
-                    MessageBox.Show("Email hoac mat khau sai dinh dang!");
+                    MessageBox.Show("Email hoặc mật khẩu sai định dạng!");
             }
             else
-                MessageBox.Show("Vui long nhap day du thong tin");
+                MessageBox.Show("Vui lòng nhập đầy đủ thông tin");
 
         }
     }
