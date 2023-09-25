@@ -84,9 +84,9 @@ namespace otpTest
         }
         public bool checkMail(string chkmail)
         {
-            List<DataAccount> listaccounts = account.DataAccounts.ToList();
+            
 
-            DataAccount dt = listaccounts.FirstOrDefault(p => p.Email == chkmail);
+            DataAccount dt = account.DataAccounts.FirstOrDefault(p => p.Email.ToString().Trim() == chkmail.ToString().Trim());
 
             if (dt != null)
             {
@@ -111,6 +111,7 @@ namespace otpTest
                     {
                         otp = randomMaOTP();
                         date = DateTime.Now;
+                        email= txtMail.Text.Trim();
                         aTimer = new System.Windows.Forms.Timer(); //Khởi tạo đối tượng Timer mới
                         lblTimer.Show();//hiển thi lbl chứa thời gian
                         btnSendOTP.Enabled = false;//tắt chức năng của nút gửi mã OTP
@@ -198,23 +199,22 @@ namespace otpTest
                         FormIn4 frm = new FormIn4();
                         if (dt == null)
                         {
-                            DataAccount acc = new DataAccount()
-                            {
-                                UID = (account.DataAccounts.Count() + 1).ToString(),
-                                Email =email,
-                                MatKhau = (int.Parse(mk.ToString()) ).ToString(),
-                                TenNguoiDung = ten
-                            };
+                            DataAccount acc = new DataAccount();
+                            acc.UID = (account.DataAccounts.Count() + 1).ToString().Trim();
+                            acc.Email = email.ToString().Trim();
+                            acc.MatKhau = mk.ToString().Trim();
+                            acc.TenNguoiDung=ten.ToString().Trim();
+                            
                             account.DataAccounts.Add(acc);
                             account.SaveChanges();
 
-                            MessageBox.Show("Xác nhận thành công", "Thông báo");
+                            MessageBox.Show("Xác nhận đăng ký thành công", "Thông báo");
 
                             frm.GetUid = acc.UID.ToString();
                         }
                         else
                         {
-                            MessageBox.Show("Xác nhận thành công", "Thông báo");
+                            MessageBox.Show("Xác nhận đăng nhập thành công", "Thông báo");
 
                             frm.GetUid = dt.UID.ToString().Trim();
                         }

@@ -9,6 +9,16 @@ namespace otpTest
     [Table("DataAccount")]
     public partial class DataAccount
     {
+        public DataAccount() { }
+
+        public DataAccount(string uid,string email,string password,string name) 
+        {
+            UID = uid;
+            Email = email;
+            MatKhau=password;
+            TenNguoiDung=name;
+        }
+
         [Key]
         [StringLength(10)]
         public string UID { get; set; }

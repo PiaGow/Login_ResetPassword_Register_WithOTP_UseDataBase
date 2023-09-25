@@ -33,9 +33,9 @@ namespace otpTest
                 string matKhau = txtPassword.Text.Trim();
 
 
-                List<DataAccount> listaccounts = account.DataAccounts.ToList();
+               
 
-                DataAccount dt = listaccounts.FirstOrDefault(p => p.Email == taiKhoan);//Tìm người dùng theo email
+                DataAccount dt = account.DataAccounts.FirstOrDefault(p => p.Email.Trim() == taiKhoan.Trim());//Tìm người dùng theo email
                 if (dt != null)// truy vấn xem người dùng có tồn tại trong CSDL chưa
                 {
                     if (dt.MatKhau.Trim() == matKhau)//Kiểm tra mật khẩu của người dùng nhập vào
